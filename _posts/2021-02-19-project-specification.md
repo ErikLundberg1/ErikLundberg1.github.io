@@ -2,7 +2,6 @@
 layout: post
 ---
 
-# Project specification
 ### Group Members
 Erik Lundberg (erilundb@kth.se)
 ### Grade
