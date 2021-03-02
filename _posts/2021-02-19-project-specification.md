@@ -31,7 +31,7 @@ If I find that I have time left after completing the basic functionality, I will
 - Add traffic lights that will force the cars to come to a stand still until the light becomes green.
 - Add one more lane to the road, and implement the lane changing so that it works with this.
 
-### **Minimum viable product**
+#### **Minimum viable product**
 As time might become scarce, it would be desirable to figure out how a resonable minimum viable product could look. I think it would be resonable that it should include the basic functionality, and not include things that are related to apperance or performance. Some possible criterion for the mvp are stated below:
 
 - Cars should spawn at a lane with a random velocity.
@@ -40,7 +40,7 @@ As time might become scarce, it would be desirable to figure out how a resonable
 - The cars should keep a minimum distance to one another at all times.
 - A car should change lane to the other lane if it can better reach its ideal speed in that lane, without in the process colliding with other cars.
 
-##### SPECIFICS OF WHAT THE FINAL SYSTEM WILL LOOK LIKE AND DO
+##### **SPECIFICS OF WHAT THE FINAL SYSTEM WILL LOOK LIKE AND DO**
 
 [This Youtube link](https://www.youtube.com/watch?v=W_kYXpAEnd8&ab_channel=DerPhysiker) shows something akin to what I am looking to achieve. The result should look something like the video, but I have decided to restrict the road to consist of two lanes instead of three, initially. Furthermore, I am looking to do the simulation in 3D, with a camera that provides a third person view of the simulation. The camera should be able to be moved around freely, in order to get different views of the simulation. In addition, the simulation should appear fluent and realistic.
 
