@@ -31,7 +31,7 @@ If I find that I have time left after completing the basic functionality, I will
 - Add traffic lights that will force the cars to come to a stand still until the light becomes green.
 - Add one more lane to the road, and implement the lane changing so that it works with this.
 
-#### **Minimum viable product**
+##### **Minimum viable product**
 As time might become scarce, it would be desirable to figure out how a resonable minimum viable product could look. I think it would be resonable that it should include the basic functionality, and not include things that are related to apperance or performance. Some possible criterion for the mvp are stated below:
 
 - Cars should spawn at a lane with a random velocity.
