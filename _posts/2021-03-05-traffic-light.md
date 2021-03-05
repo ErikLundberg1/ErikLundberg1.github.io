@@ -8,7 +8,7 @@ Prior to starting this, I achieved all the criterion that I set for the minimum 
 
 <img src="https://mathformulas.in/wp-content/uploads/mathsformulas/cms/images/83/formula-for-the-deceleration.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 100px;" />
+     style="float: left; margin-right: 500px;" />
 
 This will ensure that each car comes to a standstill at the traffic light. After the light then becomes green, the cars will start accelerating again. As of now, I will continue to work on the project, with the emphasis being on fine-tuning such that the simulation appears natural. I had prior stated that I might opt to add an additional lane, but as I feel like there is still work to be done, I will most likely not have sufficient time to implement that. Moreover, I intend to enhance the lane changing to also allow for cars to change to the right lane if they are going to slow than cars behind it in the left lane.
 
