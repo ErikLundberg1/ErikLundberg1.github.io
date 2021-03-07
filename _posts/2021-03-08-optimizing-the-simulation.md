@@ -5,10 +5,7 @@ layout: post
 ### Making all the parts come together
 
 In the previous updates, I worked more so on the different individual parts. The next stage, I felt, was to get everything to work well together.
-This required me to set all parameters such that everything worked smoothly. The first thing that I did was to get the separation force and the spring force to work in a 
-manner such that each car would break instead of colliding. After this, I implemented some criterion that would have to be fullfilled for the car to change lane, which was 
-rather hard to get good, and something I feel can be improved, though it has the basic functionality required for the project. Furthermore, I implemented the lane changing to the
-left lane if the car behind was going faster. This ended up working, but there are still some bugs related to this that I am unsure if I will be able to fix before the deadline. 
+This required me to set all parameters of the basic functionality, such that everything worked smoothly. The first thing that I did was to get the separation force and the spring force to work in a manner such that each car would break instead of colliding. After this, I implemented some criterion that would have to be fullfilled for the car to change lane, which was rather hard to make it function as I wanted it to do, and something I feel can be improved, though it has the basic functionality required for the project. Furthermore, I implemented the lane changing to the left lane if the car behind was going faster. This ended up working, but there are still some bugs related to this that I am unsure if I will be able to fix before the deadline. 
   
 With regards to the traffic light, I works well. The current implementation only allows for the traffic light to be red the first run of the simulation. This is something that I 
 will try to improve if I have time. Ideally, the light should be able to be enabled for every run of the simulation. 
